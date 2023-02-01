@@ -1,0 +1,24 @@
+
+
+Answer 1
+------------
+
+ first and formost challenge for me is to read a csv file so for that i have followed certain steps.
+Step 1. i have put the data into the excel sheet and save that file with the .csv extension.
+Step 2. while solving this problem first things that comes in my mind is that the given data 
+how i can encounter this data into our java applicaton.
+Step 3.  using buffer Reader i have tried to read the file which is under the root
+         folder src in the application.
+ using an HashMap we can easily convert our data into the desired result.
+
+here key is the alphabetical value and and "value" is the numerical numbers
+for ex:- A1 - key
+         5  - value
+         =4+5 - treat as value
+         
+ 2 What type of errors you would you check for?
+ ---------------------------------------------
+Answer
+---------  if we give the wrong path location of my csvfile then it would lead to an 
+            error and gives me file not found exception.
+         

@@ -1,0 +1,10 @@
+
+
+Answer 3 
+------------
+ The key things we would consider while creating an api to ensure that it is secure 
+ and reliable is that by implementing authentication using spring security. 
+There are some other methods by which we can make our api more secure and relialbe like 
+by Validate Api Parameters(these parameter is ensure that they will not going to comprise security),
+use pagination so that it allows the end user to 
+ limit the number resources they can access in a single request
